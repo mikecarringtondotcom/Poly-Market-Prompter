@@ -21,20 +21,63 @@ Usage
 Dependencies
 ────────────
     pip install requests anthropic
+
+Instructions
+────────────
+To run python:
+
+- There are two ways to provide your Anthropic API key:
+  1. Set the environment variable ANTHROPIC_API_KEY before running the script.
+
+  2. If the environment variable is not set, the script will prompt you to enter your API key securely (input will be hidden).
+
+
 """
  
 import time
 import json
 import os
+import getpass
 import requests
 import anthropic
+
+
+def _load_dotenv() -> None:
+    """Load KEY=VALUE pairs from a .env file next to this script into os.environ."""
+    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env")
+    if not os.path.isfile(env_path):
+        return
+    with open(env_path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, _, value = line.partition("=")
+            key = key.strip()
+            value = value.strip().strip('"').strip("'")
+            os.environ.setdefault(key, value)
+
+
+def get_anthropic_client() -> anthropic.Anthropic:
+    """
+    Returns an Anthropic client. Uses ANTHROPIC_API_KEY from .env or env var if set,
+    otherwise prompts the user to enter it (input is hidden, never printed).
+    """
+    _load_dotenv()
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        print("\nNo ANTHROPIC_API_KEY found in environment or .env file.")
+        api_key = getpass.getpass("Enter your Anthropic API key: ").strip()
+        if not api_key:
+            raise ValueError("API key cannot be empty.")
+    return anthropic.Anthropic(api_key=api_key)
  
 # ─── Config ────────────────────────────────────────────────────────────────
  
 BASE_URL        = "https://data-api.polymarket.com"
 LEADERBOARD_TOP = 20      # How many traders to pull from the leaderboard
 MIN_OVERLAP     = 2       # Only surface markets held by at least this many top traders
-TIME_PERIOD     = "MONTH"  # DAY | WEEK | MONTH | ALL
+TIME_PERIOD     = "WEEK"  # DAY | WEEK | MONTH | ALL
 CATEGORY        = "OVERALL"
 SLEEP_BETWEEN   = 0.5     # Seconds between position requests (rate-limit courtesy)
  
@@ -214,7 +257,7 @@ def run_ai_agent(ranked_markets: list[dict], top_n: int = 15) -> list[dict]:
         for m in ranked_markets[:top_n]
     ]
  
-    client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from env
+    client = get_anthropic_client()
  
     print("\n[AI] Sending aggregated positions to Claude for analysis...")
     response = client.messages.create(
