@@ -38,6 +38,7 @@ import time
 import json
 import os
 import getpass
+from datetime import datetime, timezone
 import requests
 import anthropic
 
@@ -157,9 +158,25 @@ def build_smart_money_map(leaderboard: list[dict]) -> dict:
         print(f"  Fetching positions: #{rank} {username} | PnL ${pnl:,.2f}")
         positions = get_user_active_positions(address)
  
+        now = datetime.now(timezone.utc)
         for pos in positions:
-            # Skip resolved markets
-            if pos.get("redeemed") or pos.get("closed"):
+            # Skip resolved / expired markets. Polymarket's /positions response
+            # uses `redeemable` (true once the market has resolved and the
+            # position can be claimed). There is no `closed`/`status` field —
+            # fall back to `endDate` for markets that have simply expired.
+            if pos.get("redeemable"):
+                continue
+            end_date = pos.get("endDate")
+            if end_date:
+                try:
+                    parsed = datetime.fromisoformat(end_date.replace("Z", "+00:00"))
+                    if parsed.tzinfo is None:
+                        parsed = parsed.replace(tzinfo=timezone.utc)
+                    if parsed <= now:
+                        continue
+                except ValueError:
+                    pass
+            if float(pos.get("size", 0) or 0) <= 0:
                 continue
  
             market_id = pos.get("conditionId") or pos.get("marketId") or pos.get("title", "unknown")
