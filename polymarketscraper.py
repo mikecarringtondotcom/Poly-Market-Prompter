@@ -75,9 +75,9 @@ def get_anthropic_client() -> anthropic.Anthropic:
 # ─── Config ────────────────────────────────────────────────────────────────
  
 BASE_URL        = "https://data-api.polymarket.com"
-LEADERBOARD_TOP = 20      # How many traders to pull from the leaderboard
+LEADERBOARD_TOP = 50     # How many traders to pull from the leaderboard
 MIN_OVERLAP     = 2       # Only surface markets held by at least this many top traders
-TIME_PERIOD     = "MONTH"  # DAY | WEEK | MONTH | ALL
+TIME_PERIOD     = "MONTH" # DAY | WEEK | MONTH | ALL
 CATEGORY        = "OVERALL"
 SLEEP_BETWEEN   = 0.5     # Seconds between position requests (rate-limit courtesy)
  

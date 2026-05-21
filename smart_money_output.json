@@ -1,63 +1,1094 @@
 {
   "ranked_markets": [
     {
-      "market_id": "0x0f840b137d3ddc2bed00751317e7acca4c9aa207c55b47fe61786e48327410de",
-      "title": "Will Aston Villa FC win on 2026-05-20?",
-      "outcome": "No",
+      "market_id": "0x9a0da0f25f94fce088c88803b296d48dd19717370dbafa97484f3ddac70ee4dc",
+      "title": "Spurs vs. Thunder",
+      "outcome": "Thunder",
       "traders": [
         {
-          "rank": 1,
+          "rank": 2,
           "username": "Anonymous",
-          "address": "0x2d7be5170a8026c18709eaea1027c7f12e8ce2ce",
-          "outcome": "No",
+          "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+          "outcome": "Thunder",
           "size": 0.0,
-          "value": 58.471
+          "value": 1249358.8038
         },
         {
-          "rank": 3,
+          "rank": 4,
           "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Yes",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+          "outcome": "Thunder",
           "size": 0.0,
-          "value": 429582.3009
+          "value": 143039.2369
         },
         {
-          "rank": 5,
+          "rank": 6,
           "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "No",
+          "address": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+          "outcome": "Thunder",
           "size": 0.0,
-          "value": 81.4492
+          "value": 208874.3141
+        },
+        {
+          "rank": 7,
+          "username": "Anonymous",
+          "address": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 282991.5634
         },
         {
           "rank": 8,
           "username": "Anonymous",
           "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "No",
+          "outcome": "Thunder",
           "size": 0.0,
-          "value": 14.8405
+          "value": 245795.2703
+        },
+        {
+          "rank": 11,
+          "username": "Anonymous",
+          "address": "0x49007e1e636d0e922d0122a02ea743e41d194a72",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 220347.751
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 51686.1647
+        }
+      ],
+      "trader_count": 7,
+      "total_score": 91.0,
+      "total_value": 2402093.1042000004,
+      "avg_value": 343156.1577428572
+    },
+    {
+      "market_id": "0xef88182f6494396820c720cdb0e3b810c92b58fe810941da1421fbeef83bf60c",
+      "title": "Golden Knights vs. Avalanche",
+      "outcome": "Golden Knights",
+      "traders": [
+        {
+          "rank": 1,
+          "username": "Anonymous",
+          "address": "0x5bec79df9add70a3892041ab1a5516b60f53b215",
+          "outcome": "Golden Knights",
+          "size": 0.0,
+          "value": 430717.3103
+        },
+        {
+          "rank": 7,
+          "username": "Anonymous",
+          "address": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
+          "outcome": "Golden Knights",
+          "size": 0.0,
+          "value": 10178.1983
+        },
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "Avalanche",
+          "size": 0.0,
+          "value": 10.0487
         },
         {
           "rank": 12,
           "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
+          "address": "0x03e8a544e97eeff5753bc1e90d46e5ef22af1697",
+          "outcome": "Golden Knights",
+          "size": 0.0,
+          "value": 52429.3734
+        },
+        {
+          "rank": 20,
+          "username": "Anonymous",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+          "outcome": "Golden Knights",
+          "size": 0.0,
+          "value": 23717.3553
+        }
+      ],
+      "trader_count": 5,
+      "total_score": 57.0,
+      "total_value": 517052.28599999996,
+      "avg_value": 103410.45719999999
+    },
+    {
+      "market_id": "0x8246b715242536356d2938f90df8b50271fcf6d7586495249e2e9f75a1101981",
+      "title": "Spurs vs. Thunder",
+      "outcome": "Thunder",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 4,
+          "username": "Anonymous",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 4,
+      "total_score": 55.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x4ce89f87fa4c39282f6a9b10d6d3bc52954a4d528994a4f7f715f352be2fb82a",
+      "title": "Spread: Thunder (-6.5)",
+      "outcome": "Thunder",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 82178.89
+        },
+        {
+          "rank": 6,
+          "username": "Anonymous",
+          "address": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 7522.0206
+        },
+        {
+          "rank": 6,
+          "username": "Anonymous",
+          "address": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+          "outcome": "Spurs",
+          "size": 0.0,
+          "value": 0.4347
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 190619.6026
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 17348.8198
+        }
+      ],
+      "trader_count": 5,
+      "total_score": 55.0,
+      "total_value": 297669.7677,
+      "avg_value": 59533.95354
+    },
+    {
+      "market_id": "0x2859add9ceb006b9829cc2427a0c79a4ec8f59658cf37ef1e2120adf3584eb9e",
+      "title": "Baltimore Orioles vs. Tampa Bay Rays",
+      "outcome": "Baltimore Orioles",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Baltimore Orioles",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 5,
+          "username": "Anonymous",
+          "address": "0xb45a797faa52b0fd8adc56d30382022b7b12192c",
+          "outcome": "Tampa Bay Rays",
+          "size": 0.0,
+          "value": 54636.0044
+        },
+        {
+          "rank": 7,
+          "username": "Anonymous",
+          "address": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
+          "outcome": "Baltimore Orioles",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Baltimore Orioles",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 4,
+      "total_score": 51.0,
+      "total_value": 54636.0044,
+      "avg_value": 13659.0011
+    },
+    {
+      "market_id": "0x307a1ed89d60b61002dd5bbf00e1408c5ed2ab3fcdb056191ca7ef9bc34d38f3",
+      "title": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "outcome": "No",
+      "traders": [
+        {
+          "rank": 2,
+          "username": "Anonymous",
+          "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
           "outcome": "No",
           "size": 0.0,
-          "value": 14.9383
+          "value": 988800.0
+        },
+        {
+          "rank": 2,
+          "username": "Anonymous",
+          "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 931200.0
+        },
+        {
+          "rank": 9,
+          "username": "Anonymous",
+          "address": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 6212.548
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 50.0,
+      "total_value": 1926212.548,
+      "avg_value": 642070.8493333333
+    },
+    {
+      "market_id": "0xe9d8006eb3d1e77f239054bbdc24d02db83d13b45ee7913c23bbe333e458425b",
+      "title": "Spread: Thunder (-8.5)",
+      "outcome": "Thunder",
+      "traders": [
+        {
+          "rank": 2,
+          "username": "Anonymous",
+          "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+          "outcome": "Spurs",
+          "size": 0.0,
+          "value": 0.0579
+        },
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 49181.5794
+        },
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 29904.3289
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 50.0,
+      "total_value": 79085.9662,
+      "avg_value": 26361.98873333333
+    },
+    {
+      "market_id": "0x4c02205ea693601c7cee07611170d66898cb8b4cfc006292ec7e1e3c9a74ad07",
+      "title": "Athletics vs. Los Angeles Angels",
+      "outcome": "Los Angeles Angels",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Los Angeles Angels",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 4,
+          "username": "Anonymous",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+          "outcome": "Los Angeles Angels",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 7,
+          "username": "Anonymous",
+          "address": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
+          "outcome": "Los Angeles Angels",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 49.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x3451f325145d64b1f7a7c30eaac6971906b694272bd43fdb99216d9564cc16bb",
+      "title": "Toronto Blue Jays vs. New York Yankees",
+      "outcome": "New York Yankees",
+      "traders": [
+        {
+          "rank": 4,
+          "username": "Anonymous",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+          "outcome": "New York Yankees",
+          "size": 0.0,
+          "value": 16946.4212
+        },
+        {
+          "rank": 7,
+          "username": "Anonymous",
+          "address": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
+          "outcome": "New York Yankees",
+          "size": 0.0,
+          "value": 3155.4624
+        },
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "New York Yankees",
+          "size": 0.0,
+          "value": 28378.4657
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 44.0,
+      "total_value": 48480.3493,
+      "avg_value": 16160.116433333334
+    },
+    {
+      "market_id": "0xc46e568e947393b1c113838f4699511cddddc7275bbfacead7840421ac955034",
+      "title": "Spread: Thunder (-7.5)",
+      "outcome": "Thunder",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 9646.7638
+        },
+        {
+          "rank": 6,
+          "username": "Anonymous",
+          "address": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 29197.0041
+        },
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 26455.7655
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 67849.1266
+        }
+      ],
+      "trader_count": 4,
+      "total_score": 43.0,
+      "total_value": 133148.66,
+      "avg_value": 33287.165
+    },
+    {
+      "market_id": "0x4cf389adc069a4d713e1ddb6348c96afd6df78e6bf676c7dce1780135186d90e",
+      "title": "Will the Oklahoma City Thunder win the NBA Western Conference Finals?",
+      "outcome": "Yes",
+      "traders": [
+        {
+          "rank": 2,
+          "username": "Anonymous",
+          "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 40.6575
+        },
+        {
+          "rank": 6,
+          "username": "Anonymous",
+          "address": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 5555.0078
+        },
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 19772.4384
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 42.0,
+      "total_value": 25368.1037,
+      "avg_value": 8456.034566666667
+    },
+    {
+      "market_id": "0x6d32e4e3efbbf15ae0d579f02ae89395ad490ac3d1cce6a29cbf8ac025e27992",
+      "title": "Spurs vs. Thunder: O/U 216.5",
+      "outcome": "Over",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 3.3565
+        },
+        {
+          "rank": 7,
+          "username": "Anonymous",
+          "address": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 9.9243
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Over",
+          "size": 0.0,
+          "value": 42434.592
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Over",
+          "size": 0.0,
+          "value": 13615.5096
+        },
+        {
+          "rank": 20,
+          "username": "Anonymous",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+          "outcome": "Over",
+          "size": 0.0,
+          "value": 16698.1967
+        }
+      ],
+      "trader_count": 5,
+      "total_score": 40.0,
+      "total_value": 72761.5791,
+      "avg_value": 14552.31582
+    },
+    {
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "title": "Will PSG win the 2025\u201326 Champions League?",
+      "outcome": "Yes",
+      "traders": [
+        {
+          "rank": 2,
+          "username": "Anonymous",
+          "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 142362.4902
+        },
+        {
+          "rank": 9,
+          "username": "Anonymous",
+          "address": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 1286.4384
+        },
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 34.515
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 39.0,
+      "total_value": 143683.44360000003,
+      "avg_value": 47894.48120000001
+    },
+    {
+      "market_id": "0x434719e5e807306706d17205f2bc15e4901184084c4e8ea472127f47a365bbdf",
+      "title": "Timberwolves vs. Spurs",
+      "outcome": "Spurs",
+      "traders": [
+        {
+          "rank": 4,
+          "username": "Anonymous",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+          "outcome": "Spurs",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "Spurs",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Spurs",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 16,
+          "username": "Anonymous",
+          "address": "0x93abbc022ce98d6f45d4444b594791cc4b7a9723",
+          "outcome": "Spurs",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 4,
+      "total_score": 37.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x24182c2cff793b7675503170b5208b7013f39e461f5136afdf1be19e7d98323c",
+      "title": "Cavaliers vs. Knicks: O/U 217.5",
+      "outcome": "Under",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 7,
+          "username": "Anonymous",
+          "address": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 36.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+      "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+      "outcome": "Yes",
+      "traders": [
+        {
+          "rank": 6,
+          "username": "Anonymous",
+          "address": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 129186.1189
+        },
+        {
+          "rank": 9,
+          "username": "Anonymous",
+          "address": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 439546.6839
+        },
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 36314.2316
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 35.0,
+      "total_value": 605047.0344,
+      "avg_value": 201682.3448
+    },
+    {
+      "market_id": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+      "title": "Will the New York Knicks win the 2026 NBA Finals?",
+      "outcome": "Yes",
+      "traders": [
+        {
+          "rank": 6,
+          "username": "Anonymous",
+          "address": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 6018.2179
+        },
+        {
+          "rank": 9,
+          "username": "Anonymous",
+          "address": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 12985.4048
+        },
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 2171.533
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 35.0,
+      "total_value": 21175.1557,
+      "avg_value": 7058.385233333333
+    },
+    {
+      "market_id": "0x6b44bd667fad6cb5b3b68d8bd1055a038c77d9176dbd51f123879797cc3368a7",
+      "title": "Will the Cleveland Cavaliers win the 2026 NBA Finals?",
+      "outcome": "Yes",
+      "traders": [
+        {
+          "rank": 6,
+          "username": "Anonymous",
+          "address": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 5005.1947
+        },
+        {
+          "rank": 9,
+          "username": "Anonymous",
+          "address": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 1712.7195
         },
         {
           "rank": 15,
           "username": "Anonymous",
-          "address": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
-          "outcome": "No",
+          "address": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+          "outcome": "Yes",
           "size": 0.0,
-          "value": 31.2352
+          "value": 271.6189
         }
       ],
-      "trader_count": 6,
-      "total_score": 82.0,
-      "total_value": 429783.23509999993,
-      "avg_value": 71630.53918333333
+      "trader_count": 3,
+      "total_score": 33.0,
+      "total_value": 6989.533100000001,
+      "avg_value": 2329.8443666666667
+    },
+    {
+      "market_id": "0xf4e5fbe7dc12892f168e2320d2261b0408611ba74e22a2af027e62a15d72be7f",
+      "title": "Hurricanes vs. Senators",
+      "outcome": "Senators",
+      "traders": [
+        {
+          "rank": 1,
+          "username": "Anonymous",
+          "address": "0x5bec79df9add70a3892041ab1a5516b60f53b215",
+          "outcome": "Senators",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Senators",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Senators",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 31.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xc4bc6627bb645045992222dad717edda49fe0d1c6aeb13067732b28a736d47f9",
+      "title": "Spread: Thunder (-6.5)",
+      "outcome": "Thunder",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 31.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x840c674f50e472679218c820b4f6be8164bd778d82d8328a90f47604b18f1d4b",
+      "title": "Kansas City Royals vs. St. Louis Cardinals",
+      "outcome": "St. Louis Cardinals",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "St. Louis Cardinals",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "St. Louis Cardinals",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 31.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xd5ea5f68912939f3c7cd32d2260e68daf635198388e8693f3587c44dd4e15a8e",
+      "title": "UFC Fight Night: Arnold Allen vs. Melquizael Costa (Featherweight, Main Card)",
+      "outcome": "Melquizael Costa",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Melquizael Costa",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "Melquizael Costa",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 31.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xa190add619b444d129ebf50f02d5b53a8b858487c00bcaca384110a025cfba86",
+      "title": "Spread: Knicks (-7.5)",
+      "outcome": "Cavaliers",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Cavaliers",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "Cavaliers",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 31.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a",
+      "title": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?",
+      "outcome": "Yes",
+      "traders": [
+        {
+          "rank": 9,
+          "username": "Anonymous",
+          "address": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 5216.3878
+        },
+        {
+          "rank": 12,
+          "username": "Anonymous",
+          "address": "0x03e8a544e97eeff5753bc1e90d46e5ef22af1697",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 102673.2107
+        },
+        {
+          "rank": 12,
+          "username": "Anonymous",
+          "address": "0x03e8a544e97eeff5753bc1e90d46e5ef22af1697",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 15675.0
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 30.0,
+      "total_value": 123564.5985,
+      "avg_value": 41188.199499999995
+    },
+    {
+      "market_id": "0x6b3d1a3cf585100eb0f92a0edbbf39c8802227c096ef02f2af8cac3a8e4701f9",
+      "title": "Sabres vs. Bruins",
+      "outcome": "Bruins",
+      "traders": [
+        {
+          "rank": 1,
+          "username": "Anonymous",
+          "address": "0x5bec79df9add70a3892041ab1a5516b60f53b215",
+          "outcome": "Bruins",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 12,
+          "username": "Anonymous",
+          "address": "0x03e8a544e97eeff5753bc1e90d46e5ef22af1697",
+          "outcome": "Bruins",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 29.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xc87774742995f15dcc5c7b6265fd5908c59a6e168af5a41703e8e4762bef5d96",
+      "title": "Canadiens vs. Sabres",
+      "outcome": "Sabres",
+      "traders": [
+        {
+          "rank": 1,
+          "username": "Anonymous",
+          "address": "0x5bec79df9add70a3892041ab1a5516b60f53b215",
+          "outcome": "Sabres",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 12,
+          "username": "Anonymous",
+          "address": "0x03e8a544e97eeff5753bc1e90d46e5ef22af1697",
+          "outcome": "Sabres",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 29.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xa56cbd2d48e22a66909134de931aeb751c02b311eed33c96145a29ffa6433c6e",
+      "title": "Flyers vs. Hurricanes",
+      "outcome": "Flyers",
+      "traders": [
+        {
+          "rank": 1,
+          "username": "Anonymous",
+          "address": "0x5bec79df9add70a3892041ab1a5516b60f53b215",
+          "outcome": "Flyers",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 12,
+          "username": "Anonymous",
+          "address": "0x03e8a544e97eeff5753bc1e90d46e5ef22af1697",
+          "outcome": "Flyers",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 29.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x017099b71b4754c6f7ee6e78492d138270294db1bc520d970eaab83192e12a39",
+      "title": "Will West Ham be relegated from the English Premier League after the 2025\u201326 season?",
+      "outcome": "Yes",
+      "traders": [
+        {
+          "rank": 2,
+          "username": "Anonymous",
+          "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 6275.5747
+        },
+        {
+          "rank": 11,
+          "username": "Anonymous",
+          "address": "0x49007e1e636d0e922d0122a02ea743e41d194a72",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 15035.2774
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 29.0,
+      "total_value": 21310.8521,
+      "avg_value": 10655.42605
+    },
+    {
+      "market_id": "0xcf4e906f66624d33c81e310072d26528209ce544fe641fd2835607c0f1c63417",
+      "title": "Will Tottenham be relegated from the English Premier League after the 2025\u201326 season?",
+      "outcome": "Yes",
+      "traders": [
+        {
+          "rank": 2,
+          "username": "Anonymous",
+          "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 3102.2492
+        },
+        {
+          "rank": 11,
+          "username": "Anonymous",
+          "address": "0x49007e1e636d0e922d0122a02ea743e41d194a72",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 46553.7266
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 29.0,
+      "total_value": 49655.9758,
+      "avg_value": 24827.9879
+    },
+    {
+      "market_id": "0x976c4dae5c4e9fedcc755eedd7848a2268b72a6b7033d517f2738d738b1e0c0a",
+      "title": "Knicks vs. 76ers",
+      "outcome": "76ers",
+      "traders": [
+        {
+          "rank": 4,
+          "username": "Anonymous",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+          "outcome": "76ers",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "76ers",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 16,
+          "username": "Anonymous",
+          "address": "0x93abbc022ce98d6f45d4444b594791cc4b7a9723",
+          "outcome": "76ers",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 29.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
     },
     {
       "market_id": "0x94a7478259e67e8935c76c5c3249c1d7144a03aa5820078cd0d6f79c32be3a2d",
@@ -65,36 +1096,12 @@
       "outcome": "San Francisco Giants",
       "traders": [
         {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Arizona Diamondbacks",
-          "size": 0.0,
-          "value": 78401.7358
-        },
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "San Francisco Giants",
-          "size": 0.0,
-          "value": 5133.4476
-        },
-        {
-          "rank": 4,
-          "username": "Anonymous",
-          "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
-          "outcome": "Arizona Diamondbacks",
-          "size": 0.0,
-          "value": 101050.219
-        },
-        {
           "rank": 5,
           "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "San Francisco Giants",
+          "address": "0xb45a797faa52b0fd8adc56d30382022b7b12192c",
+          "outcome": "Arizona Diamondbacks",
           "size": 0.0,
-          "value": 363.5699
+          "value": 91034.47
         },
         {
           "rank": 8,
@@ -102,175 +1109,100 @@
           "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
           "outcome": "San Francisco Giants",
           "size": 0.0,
-          "value": 5826.1515
+          "value": 0.0
         }
       ],
-      "trader_count": 5,
-      "total_score": 82.0,
-      "total_value": 190775.1238,
-      "avg_value": 38155.02476
+      "trader_count": 2,
+      "total_score": 29.0,
+      "total_value": 91034.47,
+      "avg_value": 45517.235
     },
     {
       "market_id": "0x8530b96422523df2024c4242021b58da538c5e94ba525e8f9893c3fc2f469160",
       "title": "Cavaliers vs. Knicks",
-      "outcome": "Cavaliers",
+      "outcome": "Knicks",
       "traders": [
-        {
-          "rank": 1,
-          "username": "Anonymous",
-          "address": "0x2d7be5170a8026c18709eaea1027c7f12e8ce2ce",
-          "outcome": "Cavaliers",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 2,
-          "username": "Anonymous",
-          "address": "0xfbf3d501e88815464642d0e913f15379c3eeb218",
-          "outcome": "Cavaliers",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 4,
-          "username": "Anonymous",
-          "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
-          "outcome": "Cavaliers",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 10,
-          "username": "Anonymous",
-          "address": "0x86283633b8d8ee0c0d6db3ce4c7a23f811f56f0b",
-          "outcome": "Cavaliers",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 4,
-      "total_score": 67.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x8d6e90b63da18d82988d0b704848065389e959fa8caa85e108faadb2025d8b11",
-      "title": "Will SC Freiburg win on 2026-05-20?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 1,
-          "username": "Anonymous",
-          "address": "0x2d7be5170a8026c18709eaea1027c7f12e8ce2ce",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 5766.5363
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 55859.489
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 2.1903
-        },
-        {
-          "rank": 15,
-          "username": "Anonymous",
-          "address": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 195.712
-        }
-      ],
-      "trader_count": 4,
-      "total_score": 58.0,
-      "total_value": 61823.9276,
-      "avg_value": 15455.9819
-    },
-    {
-      "market_id": "0x3df818c271c0c8f83f468d90c8ac2eded35bf6d1755fc17921e9116dc350c046",
-      "title": "Will FC Barcelona win on 2026-05-17?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 1,
-          "username": "Anonymous",
-          "address": "0x2d7be5170a8026c18709eaea1027c7f12e8ce2ce",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 12,
-          "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 4,
-      "total_score": 54.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xaa18c0e994034afe2fa7e6ed1c93a84b835729f50f5bc3cd8aa226baed66737c",
-      "title": "Will AC Milan win on 2026-05-17?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 1,
-          "username": "Anonymous",
-          "address": "0x2d7be5170a8026c18709eaea1027c7f12e8ce2ce",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
         {
           "rank": 3,
           "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "No",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Cavaliers",
           "size": 0.0,
           "value": 0.0
         },
         {
-          "rank": 8,
+          "rank": 11,
           "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "No",
+          "address": "0x49007e1e636d0e922d0122a02ea743e41d194a72",
+          "outcome": "Knicks",
+          "size": 0.0,
+          "value": 20878.8428
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 28.0,
+      "total_value": 20878.8428,
+      "avg_value": 10439.4214
+    },
+    {
+      "market_id": "0xc9ffee0654ab000680566569af35949f22078ea533a7444e97efeedfd092d597",
+      "title": "Flyers vs. Penguins",
+      "outcome": "Flyers",
+      "traders": [
+        {
+          "rank": 1,
+          "username": "Anonymous",
+          "address": "0x5bec79df9add70a3892041ab1a5516b60f53b215",
+          "outcome": "Flyers",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Flyers",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Flyers",
           "size": 0.0,
           "value": 0.0
         }
       ],
       "trader_count": 3,
-      "total_score": 51.0,
+      "total_score": 27.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x5169cbcb24891fbf46ce96f45ba8cd7a2ee2905dbd50efc5c8d5cbd7c97c30ec",
+      "title": "Spread: Spurs (-10.5)",
+      "outcome": "Timberwolves",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Timberwolves",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Timberwolves",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 25.0,
       "total_value": 0.0,
       "avg_value": 0.0
     },
@@ -280,197 +1212,6 @@
       "outcome": "No",
       "traders": [
         {
-          "rank": 1,
-          "username": "Anonymous",
-          "address": "0x2d7be5170a8026c18709eaea1027c7f12e8ce2ce",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 51.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x38e31c33959e215d81d8448b22365d7f90fff969b6989a7029924f1071855ce1",
-      "title": "Texas Rangers vs. Colorado Rockies",
-      "outcome": "Colorado Rockies",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Colorado Rockies",
-          "size": 0.0,
-          "value": 53405.9083
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Colorado Rockies",
-          "size": 0.0,
-          "value": 8088.3977
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Texas Rangers",
-          "size": 0.0,
-          "value": 593.779
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 50.0,
-      "total_value": 62088.08500000001,
-      "avg_value": 20696.028333333335
-    },
-    {
-      "market_id": "0xba2bd126cbd379ce3897860aafbd0a4ebb04e7d95ec186ac3d94fe8af5d4c95c",
-      "title": "Chicago White Sox vs. Seattle Mariners",
-      "outcome": "Seattle Mariners",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Seattle Mariners",
-          "size": 0.0,
-          "value": 35772.2062
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Seattle Mariners",
-          "size": 0.0,
-          "value": 6056.1211
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Chicago White Sox",
-          "size": 0.0,
-          "value": 1954.1072
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 50.0,
-      "total_value": 43782.4345,
-      "avg_value": 14594.144833333334
-    },
-    {
-      "market_id": "0x888e12da874ed055a6ceea32c1a619aaff5d0456e4f687b2a50a1f37e5a65eb4",
-      "title": "SC Freiburg vs. Aston Villa FC: O/U 2.5",
-      "outcome": "Over",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 44360.0445
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Under",
-          "size": 0.0,
-          "value": 15.5725
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 4708.7837
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 50.0,
-      "total_value": 49084.400700000006,
-      "avg_value": 16361.466900000001
-    },
-    {
-      "market_id": "0x9a0da0f25f94fce088c88803b296d48dd19717370dbafa97484f3ddac70ee4dc",
-      "title": "Spurs vs. Thunder",
-      "outcome": "Spurs",
-      "traders": [
-        {
-          "rank": 7,
-          "username": "Anonymous",
-          "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
-          "outcome": "Spurs",
-          "size": 0.0,
-          "value": 126000.0
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Spurs",
-          "size": 0.0,
-          "value": 78444.583
-        },
-        {
-          "rank": 10,
-          "username": "Anonymous",
-          "address": "0x86283633b8d8ee0c0d6db3ce4c7a23f811f56f0b",
-          "outcome": "Spurs",
-          "size": 0.0,
-          "value": 264332.4982
-        },
-        {
-          "rank": 11,
-          "username": "Anonymous",
-          "address": "0x9ac2536ed93f8fe8ce91d9662b03bcbb19ccbe3d",
-          "outcome": "Thunder",
-          "size": 0.0,
-          "value": 68880.1814
-        }
-      ],
-      "trader_count": 4,
-      "total_score": 48.0,
-      "total_value": 537657.2626,
-      "avg_value": 134414.31565
-    },
-    {
-      "market_id": "0x68baa454e91a8bb7d71defad47d94dda99bfa684f06ef0d14cfde366e26ffe2a",
-      "title": "Will Newcastle United FC win on 2026-05-17?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 1,
-          "username": "Anonymous",
-          "address": "0x2d7be5170a8026c18709eaea1027c7f12e8ce2ce",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
           "rank": 8,
           "username": "Anonymous",
           "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
@@ -479,238 +1220,9 @@
           "value": 0.0
         },
         {
-          "rank": 12,
+          "rank": 13,
           "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 42.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x428f1727e3ad480a3ace9a239e666fa162a52ee921a079c1391fcbd7d4826ca4",
-      "title": "Hamburg European Open: Alejandro Davidovich Fokina vs Alex de Minaur",
-      "outcome": "Alejandro Davidovich Fokina",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Alejandro Davidovich Fokina",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Alex de Minaur",
-          "size": 0.0,
-          "value": 17544.5104
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Alejandro Davidovich Fokina",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 42.0,
-      "total_value": 17544.5104,
-      "avg_value": 5848.170133333333
-    },
-    {
-      "market_id": "0x9fe071491383995e02ebf6f0a98cfef5d102c79953b9b82c8e2cae33908154d2",
-      "title": "Will Manchester United FC win on 2026-05-17?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 12,
-          "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 40.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xdb80cb224aaad81b579dd475129a43112827b1661fee3feec79122523ae5b933",
-      "title": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
-      "outcome": "Khamzat Chimaev",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Khamzat Chimaev",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 4,
-          "username": "Anonymous",
-          "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
-          "outcome": "Khamzat Chimaev",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 16,
-          "username": "Anonymous",
-          "address": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
-          "outcome": "Khamzat Chimaev",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 40.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x6d32e4e3efbbf15ae0d579f02ae89395ad490ac3d1cce6a29cbf8ac025e27992",
-      "title": "Spurs vs. Thunder: O/U 216.5",
-      "outcome": "Under",
-      "traders": [
-        {
-          "rank": 1,
-          "username": "Anonymous",
-          "address": "0x2d7be5170a8026c18709eaea1027c7f12e8ce2ce",
-          "outcome": "Under",
-          "size": 0.0,
-          "value": 25750.0
-        },
-        {
-          "rank": 2,
-          "username": "Anonymous",
-          "address": "0xfbf3d501e88815464642d0e913f15379c3eeb218",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 2.91
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 39.0,
-      "total_value": 25752.91,
-      "avg_value": 12876.455
-    },
-    {
-      "market_id": "0x1a3f5a0e8faa2444be504210d1c311f874b87519bbaf23b98acb546e2f9e5388",
-      "title": "Hamburg European Open: Luciano Darderi vs Yannick Hanfmann",
-      "outcome": "Luciano Darderi",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Luciano Darderi",
-          "size": 0.0,
-          "value": 33838.6774
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Yannick Hanfmann",
-          "size": 0.0,
-          "value": 87.5827
-        },
-        {
-          "rank": 11,
-          "username": "Anonymous",
-          "address": "0x9ac2536ed93f8fe8ce91d9662b03bcbb19ccbe3d",
-          "outcome": "Luciano Darderi",
-          "size": 0.0,
-          "value": 27136.3015
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 39.0,
-      "total_value": 61062.5616,
-      "avg_value": 20354.1872
-    },
-    {
-      "market_id": "0x27e70d5264109697247985c1f239291339cbb36a574c08c473311cab794f7e7d",
-      "title": "Spread: Spurs (-5.5)",
-      "outcome": "Timberwolves",
-      "traders": [
-        {
-          "rank": 1,
-          "username": "Anonymous",
-          "address": "0x2d7be5170a8026c18709eaea1027c7f12e8ce2ce",
-          "outcome": "Timberwolves",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Timberwolves",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 38.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x4ad8fd3e8ec4efcc378cc15ab8da7eb71cece5cb30ad4495b515ce9bcc2b325f",
-      "title": "Will FC Barcelona win on 2026-05-10?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 12,
-          "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 16,
-          "username": "Anonymous",
-          "address": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
           "outcome": "No",
           "size": 0.0,
           "value": 0.0
@@ -718,1271 +1230,35 @@
         {
           "rank": 17,
           "username": "Anonymous",
-          "address": "0x4761ecf3578e388a9b16c43f874efe32ee855ae8",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 4,
-      "total_score": 36.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xd6532310f7e0c5aa6b55cb6d29b7867622ad683e991df2af237f25de79c1a233",
-      "title": "Spread: Thunder (-2.5)",
-      "outcome": "Spurs",
-      "traders": [
-        {
-          "rank": 2,
-          "username": "Anonymous",
-          "address": "0xfbf3d501e88815464642d0e913f15379c3eeb218",
-          "outcome": "Spurs",
-          "size": 0.0,
-          "value": 2.0694
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Spurs",
-          "size": 0.0,
-          "value": 1522.6638
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 35.0,
-      "total_value": 1524.7332000000001,
-      "avg_value": 762.3666000000001
-    },
-    {
-      "market_id": "0x9df495a416820c808be8e808a60ce835e4cdf86dcd370440d3223b0504a5ab62",
-      "title": "Will Arsenal FC win on 2026-05-10?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
           "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 12,
-          "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 13,
-          "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
           "outcome": "No",
           "size": 0.0,
           "value": 0.0
         }
       ],
       "trader_count": 3,
-      "total_score": 35.0,
+      "total_score": 25.0,
       "total_value": 0.0,
       "avg_value": 0.0
     },
     {
-      "market_id": "0x5360d3d712f14b4145ca52c07aeb545452138d308a44e39cfb776320103f7845",
-      "title": "Knicks vs. Hawks",
-      "outcome": "Hawks",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Hawks",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 7,
-          "username": "Anonymous",
-          "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
-          "outcome": "Hawks",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 18,
-          "username": "Anonymous",
-          "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
-          "outcome": "Hawks",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 35.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x303f1601b482702c0b330a3e7805c9179f06157c690cf97ca55ac2b45af7de53",
-      "title": "Will Toulouse FC win on 2026-05-17?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 64435.473
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 3157.4944
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 34.0,
-      "total_value": 67592.9674,
-      "avg_value": 33796.4837
-    },
-    {
-      "market_id": "0x55aaedf58a379e677f1a72150605119fcbed1c4cb90d163d1bff2445053f4a18",
-      "title": "Will Manchester City FC win on 2026-03-04?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 13,
-          "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 33.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x865ac5b1fdc1706ca8cf0f25cc63544b5abcbb6819e25d52d9ac3ee4b3446726",
-      "title": "Atlanta Braves vs. Miami Marlins",
-      "outcome": "Miami Marlins",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Miami Marlins",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 7,
-          "username": "Anonymous",
-          "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
-          "outcome": "Miami Marlins",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x6fe4e1c7cc5388742f2734ad01087752d8a8262d473bfb60ecfe03fed763f856",
-      "title": "Will FC Internazionale Milano win on 2026-05-09?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 12,
-          "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 16,
-          "username": "Anonymous",
-          "address": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 32.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x9d77a836fb817bbd7290325f06a24b7fa2e9c62d226a652ad02bf1cb53639f22",
-      "title": "SC Freiburg vs. Aston Villa FC: O/U 5.5",
-      "outcome": "Under",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 8.2048
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Under",
-          "size": 0.0,
-          "value": 3068.465
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 3076.6698,
-      "avg_value": 1538.3349
-    },
-    {
-      "market_id": "0x78abc5ce1901f99602011a764c2b970fd385ff42fce5062fb4e1e9389ea5eb26",
-      "title": "SC Freiburg vs. Aston Villa FC: O/U 4.5",
-      "outcome": "Under",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Under",
-          "size": 0.0,
-          "value": 12475.7288
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 2.0854
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 12477.8142,
-      "avg_value": 6238.9071
-    },
-    {
-      "market_id": "0x58d767e1e2538cd5b8126919cb09ed10964c72fc5ccbf3c29675bdb951b90736",
-      "title": "IK Start vs. FK Bod\u00f8/Glimt: O/U 3.5",
-      "outcome": "Under",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Under",
-          "size": 0.0,
-          "value": 4.6671
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 2762.9278
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 2767.5949,
-      "avg_value": 1383.79745
-    },
-    {
-      "market_id": "0x5547e8a071b7d0a36f9a24e5764af0687fc93661083014b0c6e754d21c7c0aa7",
-      "title": "Spread: Aston Villa FC (-2.5)",
-      "outcome": "Aston Villa FC",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "SC Freiburg",
-          "size": 0.0,
-          "value": 4.088
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Aston Villa FC",
-          "size": 0.0,
-          "value": 3320.2778
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 3324.3658,
-      "avg_value": 1662.1829
-    },
-    {
-      "market_id": "0x393ff38b324b2cd8e1aa8ae77560f1bd0d550ee7f55afda6c119fc5aab21f787",
-      "title": "Will Kristiansund BK win on 2026-03-22?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 6816.3257
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 1.555
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 6817.880700000001,
-      "avg_value": 3408.9403500000003
-    },
-    {
-      "market_id": "0xfe43a9bc6e8b8b0959647df862918df500bc50d8f5f5f71bb45e513deee69162",
-      "title": "Will Al Najmah Saudi Club win on 2026-05-21?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 3.0636
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 2677.0417
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 2680.1053,
-      "avg_value": 1340.05265
-    },
-    {
-      "market_id": "0xfea6a571f73003d6c460aca89b260d178ef2259488f26f46f73a9d93b5966df5",
-      "title": "Real Madrid CF vs. Athletic Club: O/U 3.5",
-      "outcome": "Under",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Under",
-          "size": 0.0,
-          "value": 2931.7047
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 1746.7092
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 4678.4139,
-      "avg_value": 2339.20695
-    },
-    {
-      "market_id": "0x4077b477821eee806fc90c88f9e8603873e57dfb285ec79396197a306ece1ce4",
-      "title": "Will Pyramids FC win on 2026-05-20?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 4978.4645
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 1.5888
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 4980.0533000000005,
-      "avg_value": 2490.0266500000002
-    },
-    {
-      "market_id": "0xfee755ec44df2c38bbd6ff2d58463c14c5eb0255c4ca37545c18343c1b3fc602",
-      "title": "Houston Astros vs. Minnesota Twins: O/U 5.5",
-      "outcome": "Under",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Under",
-          "size": 0.0,
-          "value": 4872.0414
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 2.4355
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 4874.4769,
-      "avg_value": 2437.23845
-    },
-    {
-      "market_id": "0xdaf54f1eb77f97402d41320964c60c4e3588f29fcfd490a31e8602125a0da3cb",
-      "title": "Will Aalesunds FK win on 2026-05-10?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 4752.8841
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 1.9223
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 4754.8064,
-      "avg_value": 2377.4032
-    },
-    {
-      "market_id": "0x0b5147ff93eb992980cb383593ee138ad861c4d17643748ed4a1149ce4867673",
-      "title": "Cervia: Andrea Guerrieri vs Gabriele Piraino",
-      "outcome": "Gabriele Piraino",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Gabriele Piraino",
-          "size": 0.0,
-          "value": 2.0961
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Andrea Guerrieri",
-          "size": 0.0,
-          "value": 2606.3468
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 2608.4429,
-      "avg_value": 1304.22145
-    },
-    {
-      "market_id": "0x24b44f2315bfd9c52e560b45867ee2bbb308be3ef5cca710e4ccc413de859e76",
-      "title": "Spread: FK Bod\u00f8/Glimt (-1.5)",
-      "outcome": "FK Bod\u00f8/Glimt",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "IK Start",
-          "size": 0.0,
-          "value": 1.9984
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "FK Bod\u00f8/Glimt",
-          "size": 0.0,
-          "value": 2750.3129
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 2752.3113,
-      "avg_value": 1376.15565
-    },
-    {
-      "market_id": "0x4f3f171cdf87e54cb4f4c28434643841814c4d76755e1aeaebb8f36afa5371b3",
-      "title": "RCD Espanyol de Barcelona vs. Real Sociedad de F\u00fatbol: O/U 2.5",
-      "outcome": "Under",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 1711.9057
-        },
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Under",
-          "size": 0.0,
-          "value": 1468.1154
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 32.0,
-      "total_value": 3180.0211,
-      "avg_value": 1590.01055
-    },
-    {
-      "market_id": "0xdec14bfc24a95f72ba3e5a38c2bccbd0e138af80b4e0c3038ee0248fc6940fa9",
-      "title": "Will Cagliari Calcio win on 2026-05-17?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 31.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xd3380932b070a9001461fb4840196662a6a26d9240c2e43e8dfb6643a99b5b03",
-      "title": "Cavaliers vs. Pistons: O/U 205.5",
-      "outcome": "Under",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Under",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Under",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 31.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x2b8e247d19666cb32fa3d0f13b729c7b986643edd964c7df13bb74ac4214a46b",
-      "title": "Miami Marlins vs. Tampa Bay Rays",
-      "outcome": "Miami Marlins",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Miami Marlins",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Miami Marlins",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 31.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x8e415f7c0ee12e3ec7cdd53e74b11d0879e08eb09eb0b5d75d05cf95f8a72b3b",
-      "title": "San Diego Padres vs. Seattle Mariners",
-      "outcome": "Seattle Mariners",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Seattle Mariners",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Seattle Mariners",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 31.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xd630d6a780860b3dd244e7f48f8e50c7a60468c746cff91c0cfce27f70f475be",
-      "title": "Will 1. FC Heidenheim 1846 win on 2026-05-16?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 31.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x413c4f428155faf5e0465b1eee9e11dadbbdf31024efe031f4815208ae83a0d3",
-      "title": "Pistons vs. Cavaliers",
-      "outcome": "Pistons",
-      "traders": [
-        {
-          "rank": 4,
-          "username": "Anonymous",
-          "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
-          "outcome": "Pistons",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 7,
-          "username": "Anonymous",
-          "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
-          "outcome": "Pistons",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 31.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x8bd2b18229c39ae4250c9df4809e5b28c05e380535a1fe5497eef65b3a5b31dd",
-      "title": "Will Athletic Club win on 2026-05-13?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 30.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xdbd1a7bd82b5f8405fe1f5dcf957d5127ecbdc6329949a0b264bc084d848d7ee",
-      "title": "Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5",
-      "outcome": "Over",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 30.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x25240714dea6fdfa7b8afa179b309bdef63e0a4635047176efab182f4d744350",
-      "title": "Will Villarreal CF win on 2026-05-13?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 30.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x2859add9ceb006b9829cc2427a0c79a4ec8f59658cf37ef1e2120adf3584eb9e",
-      "title": "Baltimore Orioles vs. Tampa Bay Rays",
-      "outcome": "Tampa Bay Rays",
-      "traders": [
-        {
-          "rank": 4,
-          "username": "Anonymous",
-          "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
-          "outcome": "Tampa Bay Rays",
-          "size": 0.0,
-          "value": 251890.05
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Tampa Bay Rays",
-          "size": 0.0,
-          "value": 26336.64
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 30.0,
-      "total_value": 278226.69,
-      "avg_value": 139113.345
-    },
-    {
-      "market_id": "0x6ff0aea2be61472090f3fb1a452ee0a284ce7f47fb63f69e0051317bb29a5ef5",
-      "title": "Will Manchester City FC win on 2026-03-21?",
-      "outcome": "No",
+      "market_id": "0x3911f8ff035b71f7b74af7fcbb82336257441d6926953d335578ec9998335a4f",
+      "title": "Golden Knights vs. Utah",
+      "outcome": "Utah",
       "traders": [
         {
           "rank": 1,
           "username": "Anonymous",
-          "address": "0x2d7be5170a8026c18709eaea1027c7f12e8ce2ce",
-          "outcome": "No",
+          "address": "0x5bec79df9add70a3892041ab1a5516b60f53b215",
+          "outcome": "Utah",
           "size": 0.0,
           "value": 0.0
         },
         {
-          "rank": 12,
-          "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 29.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xc48a0ce97ff328cf6245dc3ac5d4db3e6d5093b8209806baa1352b31f5e20ee8",
-      "title": "Will Real Madrid CF win on 2026-05-14?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 1,
-          "username": "Anonymous",
-          "address": "0x2d7be5170a8026c18709eaea1027c7f12e8ce2ce",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 12,
-          "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 29.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x4b2dd194251849b2d1911c639d692e146c1e6f927a47b3f78b93b11bf631799e",
-      "title": "Hamburg European Open: Camilo Ugo Carabelli vs Frances Tiafoe",
-      "outcome": "Frances Tiafoe",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Camilo Ugo Carabelli",
-          "size": 0.0,
-          "value": 9071.9342
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Frances Tiafoe",
-          "size": 0.0,
-          "value": 15.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 29.0,
-      "total_value": 9086.9342,
-      "avg_value": 4543.4671
-    },
-    {
-      "market_id": "0xe9d8006eb3d1e77f239054bbdc24d02db83d13b45ee7913c23bbe333e458425b",
-      "title": "Spread: Thunder (-8.5)",
-      "outcome": "Thunder",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Thunder",
-          "size": 0.0,
-          "value": 1229.7408
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Thunder",
-          "size": 0.0,
-          "value": 13296.6038
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 29.0,
-      "total_value": 14526.3446,
-      "avg_value": 7263.1723
-    },
-    {
-      "market_id": "0x69c60b11b99963a874a8dc11d189ea0461f1df2e6078a8db8fc93cffb63bc426",
-      "title": "Will SK Brann win on 2026-05-10?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 4499.4205
-        },
-        {
-          "rank": 15,
-          "username": "Anonymous",
-          "address": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.1748
-        },
-        {
-          "rank": 15,
-          "username": "Anonymous",
-          "address": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 41.1094
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 28.0,
-      "total_value": 4540.7047,
-      "avg_value": 1513.5682333333334
-    },
-    {
-      "market_id": "0x8246b715242536356d2938f90df8b50271fcf6d7586495249e2e9f75a1101981",
-      "title": "Spurs vs. Thunder",
-      "outcome": "Thunder",
-      "traders": [
-        {
-          "rank": 6,
-          "username": "Anonymous",
-          "address": "0x9b1e0334569aa1768a07705a859686aad58e82c9",
-          "outcome": "Spurs",
-          "size": 0.0,
-          "value": 322580.6451
-        },
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Thunder",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 28.0,
-      "total_value": 322580.6451,
-      "avg_value": 161290.32255
-    },
-    {
-      "market_id": "0xf343a74580c2003e98f1fd44f76d4582225b84227277af1b0314011b6f039e6c",
-      "title": "Will Rayo Vallecano de Madrid win on 2026-04-26?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 3,
+          "rank": 17,
           "username": "Anonymous",
           "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 13,
-          "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 26.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x006a87540dbfafe19a9d13d2622c4e01873150ff22f05a664574c469abc3dc60",
-      "title": "Celtics vs. 76ers",
-      "outcome": "76ers",
-      "traders": [
-        {
-          "rank": 7,
-          "username": "Anonymous",
-          "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
-          "outcome": "76ers",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "76ers",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 26.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x149f392f9c3b155261d91d3fb34e05cc8bf9c259dabe1c266fc8e71d725e6dd2",
-      "title": "Will FC Bayern M\u00fcnchen win on 2026-05-09?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 12,
-          "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 16,
-          "username": "Anonymous",
-          "address": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 3,
-      "total_score": 26.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x68c1ae541d9c767a1dca43bae533131c2d34ea32763869529cce270283662efa",
-      "title": "Will Club Atl\u00e9tico de Madrid win on 2026-02-24?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 25.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x0b7e6ab4e3b6a3f17721f3e920c4077f8bb69c3a24a17705c6328b0ac7542de9",
-      "title": "Will RC Celta de Vigo win on 2026-01-22?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 25.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x0ff7cc6e6971d0bc567acf0cab6db66e984f176e2a12662eb5bb7d94da9e7c88",
-      "title": "Will Philadelphia Union win on 2026-03-01?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 25.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xadeeb82f473cc0ddb0f37c9172531b41a80dc9ed1f1cfbf0cca54b258beb0eca",
-      "title": "Will Rangers FC win on 2026-01-22?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 25.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xf19836fb5ce6451d01222095ef6cf0df38f5fdc36c98e8131d4227838b83c612",
-      "title": "Ferencv\u00e1rosi TC vs. PFK Ludogorets 1945 Razgrad: O/U 2.5",
-      "outcome": "Over",
-      "traders": [
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 25.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x5376e032a8f5a389b55aeafb39b6985bfb323f8392e304bc48b1b01e9cd39850",
-      "title": "Cavaliers vs. Pistons",
-      "outcome": "Pistons",
-      "traders": [
-        {
-          "rank": 7,
-          "username": "Anonymous",
-          "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
-          "outcome": "Pistons",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 11,
-          "username": "Anonymous",
-          "address": "0x9ac2536ed93f8fe8ce91d9662b03bcbb19ccbe3d",
-          "outcome": "Pistons",
+          "outcome": "Utah",
           "size": 0.0,
           "value": 0.0
         }
@@ -1993,197 +1269,418 @@
       "avg_value": 0.0
     },
     {
-      "market_id": "0x512115ff5c50bd746e881301b9d34fb9692a0402add76ccdd83f3d7cbcf6a9e8",
-      "title": "Will VfB Stuttgart win on 2026-05-09?",
+      "market_id": "0xe16021282570ebead48da3f992f36c2732a62d3ddb3bdfbd985e791c2da5695f",
+      "title": "Wild vs. Avalanche",
+      "outcome": "Wild",
+      "traders": [
+        {
+          "rank": 1,
+          "username": "Anonymous",
+          "address": "0x5bec79df9add70a3892041ab1a5516b60f53b215",
+          "outcome": "Wild",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Wild",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 24.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x042be00df0e5f9d06a2869014d575394d4eaaf830e21dccf95efdabb92c0dabd",
+      "title": "Hurricanes vs. Senators",
+      "outcome": "Senators",
+      "traders": [
+        {
+          "rank": 1,
+          "username": "Anonymous",
+          "address": "0x5bec79df9add70a3892041ab1a5516b60f53b215",
+          "outcome": "Senators",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Senators",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 24.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x13235382b315656f6303babd0d5c3b289c8a938fe1595462795d9217c816d7dc",
+      "title": "Spurs vs. Thunder: O/U 215.5",
+      "outcome": "Under",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 12.7775
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 4.3402
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Over",
+          "size": 0.0,
+          "value": 7490.244
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 24.0,
+      "total_value": 7507.3616999999995,
+      "avg_value": 2502.4539
+    },
+    {
+      "market_id": "0xcd78eab706791d5d8239abb896f8941e32ed70d447f07bfbb56be3ea4ffa553e",
+      "title": "Arizona Diamondbacks vs. Colorado Rockies",
+      "outcome": "Colorado Rockies",
+      "traders": [
+        {
+          "rank": 4,
+          "username": "Anonymous",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+          "outcome": "Colorado Rockies",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Colorado Rockies",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 24.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xfd8e859c0571c33a684f47926d4bb53bc658a4f0d4508266a600acbb680bcda2",
+      "title": "Raptors vs. Cavaliers: O/U 210.5",
+      "outcome": "Under",
+      "traders": [
+        {
+          "rank": 4,
+          "username": "Anonymous",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 24.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x8e415f7c0ee12e3ec7cdd53e74b11d0879e08eb09eb0b5d75d05cf95f8a72b3b",
+      "title": "San Diego Padres vs. Seattle Mariners",
+      "outcome": "Seattle Mariners",
+      "traders": [
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "Seattle Mariners",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Seattle Mariners",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Seattle Mariners",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 24.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x303f1601b482702c0b330a3e7805c9179f06157c690cf97ca55ac2b45af7de53",
+      "title": "Will Toulouse FC win on 2026-05-17?",
       "outcome": "No",
       "traders": [
         {
-          "rank": 3,
+          "rank": 2,
+          "username": "Anonymous",
+          "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 87211.7785
+        },
+        {
+          "rank": 17,
           "username": "Anonymous",
           "address": "0x9495425feeb0c250accb89275c97587011b19a27",
           "outcome": "No",
           "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 16,
-          "username": "Anonymous",
-          "address": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
+          "value": 63003.5736
         }
       ],
       "trader_count": 2,
       "total_score": 23.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
+      "total_value": 150215.35210000002,
+      "avg_value": 75107.67605000001
     },
     {
-      "market_id": "0xc63fd14dc6044eac09c5e5f700248d7907c0427b5270f9de916c284da231c9db",
-      "title": "Will Stade Rennais FC 1901 win on 2026-05-10?",
-      "outcome": "No",
+      "market_id": "0xc88060f38c792e0685db5f79706392b4a329c9b7a25874b5041b9d067493e0d9",
+      "title": "Toronto Blue Jays vs. New York Yankees: O/U 7.5",
+      "outcome": "Under",
       "traders": [
         {
           "rank": 3,
           "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "No",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Under",
           "size": 0.0,
-          "value": 0.0
+          "value": 70087.96
         },
         {
-          "rank": 16,
-          "username": "Anonymous",
-          "address": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 23.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x0e7f698cc672e0b913b4ea4304ad374477d865f82b005c86123a7040c4866794",
-      "title": "Will Southampton FC win on 2026-05-12?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 3,
+          "rank": 17,
           "username": "Anonymous",
           "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Yes",
+          "outcome": "Over",
           "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 16,
-          "username": "Anonymous",
-          "address": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 23.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xef78d4d0e98a5ed351e257561eed958afeca282a9a1cca1d52c19e7c8cc909e1",
-      "title": "Will Olympique de Marseille win on 2026-05-10?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 16,
-          "username": "Anonymous",
-          "address": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 23.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x6089fb26d6fba0df34cc993d9a6715018e439fbf640628e7c9bdfdb79fa82cff",
-      "title": "Will SC Freiburg vs. Aston Villa FC end in a draw?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 5,
-          "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 8.1502
-        },
-        {
-          "rank": 15,
-          "username": "Anonymous",
-          "address": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 21818.1687
+          "value": 10300.9661
         }
       ],
       "trader_count": 2,
       "total_score": 22.0,
-      "total_value": 21826.3189,
-      "avg_value": 10913.15945
+      "total_value": 80388.92610000001,
+      "avg_value": 40194.463050000006
     },
     {
-      "market_id": "0x3fa765148eb80af19ceebc0544ab4190a070bca68d1ac469acc8dfa81cfe0410",
-      "title": "Geneva Open: Edas Butvilas vs Alexander Bublik",
-      "outcome": "Edas Butvilas",
+      "market_id": "0xc5bded7051a28192fc06b181bc7722daa1e57a17e29eac837c771e536f477075",
+      "title": "Thunder vs. Lakers: O/U 214.5",
+      "outcome": "Under",
       "traders": [
         {
-          "rank": 5,
+          "rank": 3,
           "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "Alexander Bublik",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Under",
           "size": 0.0,
-          "value": 13693.1951
+          "value": 0.0
         },
         {
-          "rank": 15,
+          "rank": 17,
           "username": "Anonymous",
-          "address": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
-          "outcome": "Edas Butvilas",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Under",
           "size": 0.0,
-          "value": 0.3864
+          "value": 0.0
         }
       ],
       "trader_count": 2,
       "total_score": 22.0,
-      "total_value": 13693.5815,
-      "avg_value": 6846.79075
+      "total_value": 0.0,
+      "avg_value": 0.0
     },
     {
-      "market_id": "0xc6a8e2736e13313b738d37941d7e3d07410aa81e5905c92c711f20c121cba069",
-      "title": "Will IK Start win on 2026-05-10?",
-      "outcome": "Yes",
+      "market_id": "0x0f0990a3abeff4e941b2d4f34443dc6cd5c69b2cd970604405c27042448c3e52",
+      "title": "Thunder vs. Lakers: O/U 213.5",
+      "outcome": "Under",
       "traders": [
         {
-          "rank": 5,
+          "rank": 3,
           "username": "Anonymous",
-          "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-          "outcome": "No",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Under",
           "size": 0.0,
-          "value": 9292.0216
+          "value": 0.0
         },
         {
-          "rank": 15,
+          "rank": 17,
           "username": "Anonymous",
-          "address": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
-          "outcome": "Yes",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Under",
           "size": 0.0,
-          "value": 5.8432
+          "value": 0.0
         }
       ],
       "trader_count": 2,
       "total_score": 22.0,
-      "total_value": 9297.8648,
-      "avg_value": 4648.9324
+      "total_value": 0.0,
+      "avg_value": 0.0
     },
     {
-      "market_id": "0x0ebd0580de66c586524b1171c971cbc2459f09a7fd22e8885be2f206a1896aae",
-      "title": "Will Real Madrid CF win on 2026-05-17?",
+      "market_id": "0x5376e032a8f5a389b55aeafb39b6985bfb323f8392e304bc48b1b01e9cd39850",
+      "title": "Cavaliers vs. Pistons",
+      "outcome": "Pistons",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Pistons",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 19,
+          "username": "Anonymous",
+          "address": "0x9ac2536ed93f8fe8ce91d9662b03bcbb19ccbe3d",
+          "outcome": "Pistons",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 20,
+          "username": "Anonymous",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+          "outcome": "Pistons",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 21.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xf758d95a2f2d58296476ff9f1159df4690069c1c1e418124729b45aaab724d02",
+      "title": "Spurs vs. Thunder: O/U 217.5",
+      "outcome": "Under",
+      "traders": [
+        {
+          "rank": 3,
+          "username": "Anonymous",
+          "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 1.058
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Over",
+          "size": 0.0,
+          "value": 12428.2195
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 21.0,
+      "total_value": 12429.2775,
+      "avg_value": 6214.63875
+    },
+    {
+      "market_id": "0x1849a61b44e8515d38b4bcbd603c5ee61e9848b8ec864de3f0fa9e6ff3fe312b",
+      "title": "Dallas Wings vs. Chicago Sky",
+      "outcome": "Chicago Sky",
+      "traders": [
+        {
+          "rank": 5,
+          "username": "Anonymous",
+          "address": "0xb45a797faa52b0fd8adc56d30382022b7b12192c",
+          "outcome": "Chicago Sky",
+          "size": 0.0,
+          "value": 669.1007
+        },
+        {
+          "rank": 16,
+          "username": "Anonymous",
+          "address": "0x93abbc022ce98d6f45d4444b594791cc4b7a9723",
+          "outcome": "Dallas Wings",
+          "size": 0.0,
+          "value": 26241.5885
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 21.0,
+      "total_value": 26910.6892,
+      "avg_value": 13455.3446
+    },
+    {
+      "market_id": "0x8f05061c447fd275c7e6f2bc7d85e7c8a7168783367315bee2c44aa5f134c391",
+      "title": "Athletics vs. Los Angeles Angels",
+      "outcome": "Athletics",
+      "traders": [
+        {
+          "rank": 7,
+          "username": "Anonymous",
+          "address": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
+          "outcome": "Athletics",
+          "size": 0.0,
+          "value": 3428.8723
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Los Angeles Angels",
+          "size": 0.0,
+          "value": 67921.4463
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Athletics",
+          "size": 0.0,
+          "value": 1591.8277
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 21.0,
+      "total_value": 72942.1463,
+      "avg_value": 24314.048766666663
+    },
+    {
+      "market_id": "0x68baa454e91a8bb7d71defad47d94dda99bfa684f06ef0d14cfde366e26ffe2a",
+      "title": "Will Newcastle United FC win on 2026-05-17?",
       "outcome": "No",
       "traders": [
         {
@@ -2195,37 +1692,10 @@
           "value": 0.0
         },
         {
-          "rank": 12,
+          "rank": 13,
           "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
           "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 22.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x9d66579ddd12a5cd1b26500f6faaab0d44a8e119b1f2a07332ff7326780bf7d9",
-      "title": "Baltimore Orioles vs. Tampa Bay Rays",
-      "outcome": "Baltimore Orioles",
-      "traders": [
-        {
-          "rank": 3,
-          "username": "Anonymous",
-          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
-          "outcome": "Baltimore Orioles",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 18,
-          "username": "Anonymous",
-          "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
-          "outcome": "Baltimore Orioles",
           "size": 0.0,
           "value": 0.0
         }
@@ -2236,23 +1706,50 @@
       "avg_value": 0.0
     },
     {
-      "market_id": "0x8daeebd9b8136dcd7718af674ed6a10b6ff0288fc77df2cc9b3f8c04ffa691ba",
-      "title": "New York Yankees vs. New York Mets",
-      "outcome": "New York Yankees",
+      "market_id": "0x52847ca1413b76a5570b97c0c432e38dbe61b0140f9d45e912604591b08f6fca",
+      "title": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?",
+      "outcome": "No",
+      "traders": [
+        {
+          "rank": 9,
+          "username": "Anonymous",
+          "address": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 2002.826
+        },
+        {
+          "rank": 12,
+          "username": "Anonymous",
+          "address": "0x03e8a544e97eeff5753bc1e90d46e5ef22af1697",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 30724.6195
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 21.0,
+      "total_value": 32727.4455,
+      "avg_value": 16363.72275
+    },
+    {
+      "market_id": "0xe9cde4bf7fa69dd5832fef13a2e6a0c6ebd322e4a1658b8a5f8c41c05494528a",
+      "title": "Cavaliers vs. Raptors",
+      "outcome": "Cavaliers",
       "traders": [
         {
           "rank": 4,
           "username": "Anonymous",
-          "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
-          "outcome": "New York Yankees",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+          "outcome": "Cavaliers",
           "size": 0.0,
           "value": 0.0
         },
         {
           "rank": 18,
           "username": "Anonymous",
-          "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
-          "outcome": "New York Yankees",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Cavaliers",
           "size": 0.0,
           "value": 0.0
         }
@@ -2263,23 +1760,23 @@
       "avg_value": 0.0
     },
     {
-      "market_id": "0x60aef3e6319a84b6ee2df875a0b145a98909e6b3d64cf07d1e534cfc3728d138",
-      "title": "Chicago Cubs vs. Chicago White Sox",
-      "outcome": "Chicago Cubs",
+      "market_id": "0x5ba196c0086ddbe04c31ceb65262e43ccea92a45210fba571f3f1d6d725e8798",
+      "title": "Trail Blazers vs. Suns",
+      "outcome": "Suns",
       "traders": [
         {
           "rank": 4,
           "username": "Anonymous",
-          "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
-          "outcome": "Chicago Cubs",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+          "outcome": "Suns",
           "size": 0.0,
           "value": 0.0
         },
         {
           "rank": 18,
           "username": "Anonymous",
-          "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
-          "outcome": "Chicago Cubs",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Suns",
           "size": 0.0,
           "value": 0.0
         }
@@ -2290,50 +1787,23 @@
       "avg_value": 0.0
     },
     {
-      "market_id": "0x053f95738ace6c99e1571e0461feed7392fb646efa0d37ec775237e14152ecc6",
-      "title": "Will Manchester City FC win on 2026-05-19?",
-      "outcome": "No",
+      "market_id": "0xf01f219b5c84dedd842fc94649d82cd4c84f4c74109346692814f558b8cd3025",
+      "title": "Connecticut Huskies vs. Illinois Fighting Illini",
+      "outcome": "Illinois Fighting Illini",
       "traders": [
         {
-          "rank": 6,
+          "rank": 4,
           "username": "Anonymous",
-          "address": "0x9b1e0334569aa1768a07705a859686aad58e82c9",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 245421.6868
-        },
-        {
-          "rank": 16,
-          "username": "Anonymous",
-          "address": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 363999.9221
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 20.0,
-      "total_value": 609421.6089,
-      "avg_value": 304710.80445
-    },
-    {
-      "market_id": "0x25ae0b3ce0af14431a45ce7f36f7f07f5ea0fc8a0fa8051a9ed61db5ceeb79c1",
-      "title": "Will Arsenal FC win on 2026-03-14?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+          "outcome": "Illinois Fighting Illini",
           "size": 0.0,
           "value": 0.0
         },
         {
-          "rank": 13,
+          "rank": 18,
           "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "No",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Illinois Fighting Illini",
           "size": 0.0,
           "value": 0.0
         }
@@ -2344,347 +1814,77 @@
       "avg_value": 0.0
     },
     {
-      "market_id": "0x88ecab1f936696d68893e20e688be22f9d81783f623594a9984d0a717399ea04",
-      "title": "Will BV Borussia 09 Dortmund win on 2026-02-17?",
-      "outcome": "No",
+      "market_id": "0x38e31c33959e215d81d8448b22365d7f90fff969b6989a7029924f1071855ce1",
+      "title": "Texas Rangers vs. Colorado Rockies",
+      "outcome": "Colorado Rockies",
       "traders": [
         {
-          "rank": 9,
+          "rank": 5,
           "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
+          "address": "0xb45a797faa52b0fd8adc56d30382022b7b12192c",
+          "outcome": "Texas Rangers",
           "size": 0.0,
-          "value": 0.0
+          "value": 13018.7542
         },
         {
-          "rank": 13,
+          "rank": 17,
           "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "No",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Colorado Rockies",
           "size": 0.0,
           "value": 0.0
         }
       ],
       "trader_count": 2,
       "total_score": 20.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
+      "total_value": 13018.7542,
+      "avg_value": 6509.3771
     },
     {
-      "market_id": "0x598ec9f98def655a43fc5a62bf5edb4322cbe540cd8d2d1b0644f82ce669a944",
-      "title": "Will FC Barcelona win on 2026-02-12?",
+      "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+      "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
       "outcome": "Yes",
       "traders": [
         {
           "rank": 9,
           "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
+          "address": "0xead152b855effa6b5b5837f53b24c0756830c76a",
           "outcome": "Yes",
           "size": 0.0,
-          "value": 0.0
+          "value": 70919.1277
         },
         {
           "rank": 13,
           "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
           "outcome": "Yes",
           "size": 0.0,
-          "value": 0.0
+          "value": 7855.089
         }
       ],
       "trader_count": 2,
       "total_score": 20.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
+      "total_value": 78774.21669999999,
+      "avg_value": 39387.108349999995
     },
     {
-      "market_id": "0x805ff7ce8848451db84ca3012d87826a25c5ca2782fee1652fc797e7877c3e2a",
-      "title": "Will Arsenal FC win on 2026-02-22?",
-      "outcome": "No",
+      "market_id": "0xd343b2f246e33cfc1acfe4812958e4f19486dcb74e82889ba585408d06470ff1",
+      "title": "Spurs vs. Timberwolves",
+      "outcome": "Spurs",
       "traders": [
         {
-          "rank": 9,
+          "rank": 4,
           "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+          "outcome": "Spurs",
           "size": 0.0,
           "value": 0.0
         },
         {
-          "rank": 13,
+          "rank": 20,
           "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 20.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xd28191318521cbeda80d1ac1d406f5492d6dbbdb81e8a2c01730e927bedf7d88",
-      "title": "Will Club Atl\u00e9tico de Madrid win on 2026-02-21?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 13,
-          "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 20.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x6750969e33225085e74f03e0c72ef0e2f42094486800122b86a2dda56e9bd20a",
-      "title": "Will Getafe CF win on 2026-02-22?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 13,
-          "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 20.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x6f6a0c62f2763dea0e634bd48ad42db05ff979e50a280e610735511129f4d980",
-      "title": "Will Arsenal FC win on 2026-04-25?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 13,
-          "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 20.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xc19752f04c00ea836e711387fb786351e604f88f63422d811f5de42386124319",
-      "title": "Will Paris Saint-Germain FC win on 2026-02-08?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 13,
-          "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 20.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x293b9166bc9f6b585f00f186b9252cf697cc413ad9d49bdadef286e219945da1",
-      "title": "Will FC Bayern M\u00fcnchen win on 2026-02-08?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 13,
-          "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 20.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x01c4867a4412e2d65c6464c41979932daefd6738cde9c2190bfc45499e62a2e8",
-      "title": "Will Rayo Vallecano de Madrid win on 2026-03-16?",
-      "outcome": "Yes",
-      "traders": [
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 13,
-          "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "Yes",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 20.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x85689806283b5394ab314504c5733114e193d570a4f3435022e44231062497b3",
-      "title": "Will Real Madrid CF win on 2026-02-17?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 13,
-          "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 20.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xc65e24cc10c071c4643186287441624cb41040a3c66a2971e5fc44479cc25146",
-      "title": "Will Arsenal FC win on 2026-03-01?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 9,
-          "username": "Anonymous",
-          "address": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 13,
-          "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 20.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x24ee87c8a75a107ad38b7820fcd16119408d340f469bbc6d52432d4ffc58a64b",
-      "title": "Counter-Strike: FURIA vs Team Falcons (BO3) - PGL Astana Playoffs",
-      "outcome": "FURIA",
-      "traders": [
-        {
-          "rank": 7,
-          "username": "Anonymous",
-          "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
-          "outcome": "FURIA",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 16,
-          "username": "Anonymous",
-          "address": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
-          "outcome": "FURIA",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 19.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x7f16fc69c432e0df1714fa89da39814774eb9039355d576a2b88111424fe7427",
-      "title": "Arsenal FC vs. Burnley FC: O/U 3.5",
-      "outcome": "Over",
-      "traders": [
-        {
-          "rank": 8,
-          "username": "Anonymous",
-          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Over",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 16,
-          "username": "Anonymous",
-          "address": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
-          "outcome": "Over",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+          "outcome": "Spurs",
           "size": 0.0,
           "value": 0.0
         }
@@ -2695,131 +1895,193 @@
       "avg_value": 0.0
     },
     {
-      "market_id": "0x74adca78af18b8a3c9ef8e5710b82e29ab2c08a6b58d600465fd479260a31487",
-      "title": "San Francisco Giants vs. Los Angeles Dodgers",
-      "outcome": "San Francisco Giants",
+      "market_id": "0x3c6ce529e4eec048bfeb2b6fb2874085ff5fac5f54989970858e17719a236e09",
+      "title": "Spread: Timberwolves (-12.5)",
+      "outcome": "Pacers",
       "traders": [
         {
-          "rank": 7,
+          "rank": 4,
           "username": "Anonymous",
-          "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
-          "outcome": "San Francisco Giants",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+          "outcome": "Pacers",
           "size": 0.0,
           "value": 0.0
         },
         {
-          "rank": 18,
+          "rank": 20,
           "username": "Anonymous",
-          "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
-          "outcome": "San Francisco Giants",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+          "outcome": "Pacers",
           "size": 0.0,
           "value": 0.0
         }
       ],
       "trader_count": 2,
-      "total_score": 17.0,
+      "total_score": 18.0,
       "total_value": 0.0,
       "avg_value": 0.0
     },
     {
-      "market_id": "0x8d14c79ff83843904abee526a75b9a180d17113aa38b007c8880b5e9c38b4412",
-      "title": "Spread: Knicks (-7.5)",
-      "outcome": "76ers",
-      "traders": [
-        {
-          "rank": 7,
-          "username": "Anonymous",
-          "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
-          "outcome": "76ers",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 18,
-          "username": "Anonymous",
-          "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
-          "outcome": "76ers",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 17.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x33823cf7a376f2d038627c007cc31a17796c5d3591932fb2eea8037532ab5c47",
-      "title": "Philadelphia Phillies vs. Boston Red Sox",
-      "outcome": "Boston Red Sox",
-      "traders": [
-        {
-          "rank": 7,
-          "username": "Anonymous",
-          "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
-          "outcome": "Boston Red Sox",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 18,
-          "username": "Anonymous",
-          "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
-          "outcome": "Boston Red Sox",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 17.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0xf752c3ec9526de39530718246fcf9a69c4bc883191c8fc994eb4d43990c49030",
-      "title": "Thunder vs. Suns",
+      "market_id": "0xde93fe05c66ac1c558feabd2679106cf9d4f023d5b48879a1935386b5aaebf68",
+      "title": "Suns vs. Thunder",
       "outcome": "Suns",
       "traders": [
         {
-          "rank": 7,
+          "rank": 4,
           "username": "Anonymous",
-          "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
+          "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
           "outcome": "Suns",
           "size": 0.0,
           "value": 0.0
         },
         {
-          "rank": 18,
+          "rank": 20,
           "username": "Anonymous",
-          "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
           "outcome": "Suns",
           "size": 0.0,
           "value": 0.0
         }
       ],
       "trader_count": 2,
-      "total_score": 17.0,
+      "total_score": 18.0,
       "total_value": 0.0,
       "avg_value": 0.0
     },
     {
-      "market_id": "0xe1ac849e8db39d3fa29e82580fb93d1dedcf4812a633aced197eb456c6bb2dab",
-      "title": "Baltimore Orioles vs. New York Yankees",
+      "market_id": "0x4435d57c325f205d59e78d12aab6a15163bdc0d4c756dba129fba075f9bb3e32",
+      "title": "Canadiens vs. Sabres",
+      "outcome": "Sabres",
+      "traders": [
+        {
+          "rank": 7,
+          "username": "Anonymous",
+          "address": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
+          "outcome": "Sabres",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Sabres",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 18.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x9d66579ddd12a5cd1b26500f6faaab0d44a8e119b1f2a07332ff7326780bf7d9",
+      "title": "Baltimore Orioles vs. Tampa Bay Rays",
       "outcome": "Baltimore Orioles",
       "traders": [
         {
           "rank": 7,
           "username": "Anonymous",
-          "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
+          "address": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
           "outcome": "Baltimore Orioles",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Baltimore Orioles",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 18.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x865ac5b1fdc1706ca8cf0f25cc63544b5abcbb6819e25d52d9ac3ee4b3446726",
+      "title": "Atlanta Braves vs. Miami Marlins",
+      "outcome": "Miami Marlins",
+      "traders": [
+        {
+          "rank": 7,
+          "username": "Anonymous",
+          "address": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
+          "outcome": "Miami Marlins",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Miami Marlins",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 18.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xd3380932b070a9001461fb4840196662a6a26d9240c2e43e8dfb6643a99b5b03",
+      "title": "Cavaliers vs. Pistons: O/U 205.5",
+      "outcome": "Under",
+      "traders": [
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 20,
+          "username": "Anonymous",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 18.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xeeb4def5f8d7b2118920f73ac4531102daa64ff9c5b417cf2f80183ce38fae5f",
+      "title": "Toronto Blue Jays vs. New York Yankees",
+      "outcome": "Toronto Blue Jays",
+      "traders": [
+        {
+          "rank": 7,
+          "username": "Anonymous",
+          "address": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
+          "outcome": "Toronto Blue Jays",
           "size": 0.0,
           "value": 0.0
         },
         {
           "rank": 18,
           "username": "Anonymous",
-          "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
-          "outcome": "Baltimore Orioles",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Toronto Blue Jays",
           "size": 0.0,
           "value": 0.0
         }
@@ -2830,95 +2092,14 @@
       "avg_value": 0.0
     },
     {
-      "market_id": "0xc4bc6627bb645045992222dad717edda49fe0d1c6aeb13067732b28a736d47f9",
-      "title": "Spread: Thunder (-6.5)",
-      "outcome": "Thunder",
+      "market_id": "0xaa18c0e994034afe2fa7e6ed1c93a84b835729f50f5bc3cd8aa226baed66737c",
+      "title": "Will AC Milan win on 2026-05-17?",
+      "outcome": "No",
       "traders": [
         {
           "rank": 8,
           "username": "Anonymous",
           "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-          "outcome": "Thunder",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 18,
-          "username": "Anonymous",
-          "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
-          "outcome": "Thunder",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 16.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x069189619c7ae96da2abd767071f659190af6cadf9ef1c0b875f99268b5b4ebe",
-      "title": "Will Arsenal FC win on 2026-05-05?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 12,
-          "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 16,
-          "username": "Anonymous",
-          "address": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
-          "outcome": "No",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 14.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x4cc41310c2a5036266d4a606ec0a68dd6645241173f66e0fb3d50ef1d729a91a",
-      "title": "LoL: Karmine Corp vs G2 Esports (BO3) - LEC Regular Season",
-      "outcome": "Karmine Corp",
-      "traders": [
-        {
-          "rank": 12,
-          "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
-          "outcome": "Karmine Corp",
-          "size": 0.0,
-          "value": 0.0
-        },
-        {
-          "rank": 16,
-          "username": "Anonymous",
-          "address": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
-          "outcome": "Karmine Corp",
-          "size": 0.0,
-          "value": 0.0
-        }
-      ],
-      "trader_count": 2,
-      "total_score": 14.0,
-      "total_value": 0.0,
-      "avg_value": 0.0
-    },
-    {
-      "market_id": "0x95819f1669d9a6a5c54b19f02ffcf768ac5208b7424c161b7da046b53e707b93",
-      "title": "Will Arsenal FC win on 2026-05-18?",
-      "outcome": "No",
-      "traders": [
-        {
-          "rank": 12,
-          "username": "Anonymous",
-          "address": "0xc41d736bded9ed1accd6a44235039266219774fd",
           "outcome": "No",
           "size": 0.0,
           "value": 0.0
@@ -2926,62 +2107,645 @@
         {
           "rank": 17,
           "username": "Anonymous",
-          "address": "0x4761ecf3578e388a9b16c43f874efe32ee855ae8",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
           "outcome": "No",
           "size": 0.0,
           "value": 0.0
         }
       ],
       "trader_count": 2,
-      "total_score": 13.0,
+      "total_score": 17.0,
       "total_value": 0.0,
       "avg_value": 0.0
     },
     {
-      "market_id": "0x83e3bd62809c98d241e60ffe07ff3aa8b86f3f8cbcaed516612d3c2cf6aa1810",
-      "title": "Will Arsenal FC win on 2026-05-24?",
-      "outcome": "Yes",
+      "market_id": "0x9fe071491383995e02ebf6f0a98cfef5d102c79953b9b82c8e2cae33908154d2",
+      "title": "Will Manchester United FC win on 2026-05-17?",
+      "outcome": "No",
       "traders": [
         {
-          "rank": 15,
+          "rank": 8,
           "username": "Anonymous",
-          "address": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
           "outcome": "No",
           "size": 0.0,
-          "value": 1045.7902
+          "value": 0.0
         },
         {
-          "rank": 15,
+          "rank": 17,
           "username": "Anonymous",
-          "address": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
-          "outcome": "Yes",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "No",
           "size": 0.0,
-          "value": 1117.5116
+          "value": 0.0
         }
       ],
       "trader_count": 2,
-      "total_score": 12.0,
-      "total_value": 2163.3018,
-      "avg_value": 1081.6509
+      "total_score": 17.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
     },
     {
-      "market_id": "0x2abd5907f36b208ccd8ffaccd0ddb10bb0537e066b546942cf8c614b8d4faf59",
-      "title": "Will Villarreal CF win on 2026-03-13?",
+      "market_id": "0xd630d6a780860b3dd244e7f48f8e50c7a60468c746cff91c0cfce27f70f475be",
+      "title": "Will 1. FC Heidenheim 1846 win on 2026-05-16?",
       "outcome": "Yes",
+      "traders": [
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 17.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xdec14bfc24a95f72ba3e5a38c2bccbd0e138af80b4e0c3038ee0248fc6940fa9",
+      "title": "Will Cagliari Calcio win on 2026-05-17?",
+      "outcome": "No",
+      "traders": [
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 17.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x2b8e247d19666cb32fa3d0f13b729c7b986643edd964c7df13bb74ac4214a46b",
+      "title": "Miami Marlins vs. Tampa Bay Rays",
+      "outcome": "Miami Marlins",
+      "traders": [
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "Miami Marlins",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Miami Marlins",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 17.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x935857c41146a7b8893523dc465de3420d7a0e14cff54b60c0eaae43c76a5fa2",
+      "title": "Pittsburgh Pirates vs. St. Louis Cardinals",
+      "outcome": "Pittsburgh Pirates",
+      "traders": [
+        {
+          "rank": 8,
+          "username": "Anonymous",
+          "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+          "outcome": "Pittsburgh Pirates",
+          "size": 0.0,
+          "value": 21767.4674
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "St. Louis Cardinals",
+          "size": 0.0,
+          "value": 3.7935
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 16.0,
+      "total_value": 21771.2609,
+      "avg_value": 10885.63045
+    },
+    {
+      "market_id": "0x5360d3d712f14b4145ca52c07aeb545452138d308a44e39cfb776320103f7845",
+      "title": "Knicks vs. Hawks",
+      "outcome": "Hawks",
       "traders": [
         {
           "rank": 13,
           "username": "Anonymous",
-          "address": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-          "outcome": "Yes",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "Hawks",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Hawks",
           "size": 0.0,
           "value": 0.0
         },
         {
           "rank": 20,
           "username": "Anonymous",
-          "address": "0xb6d6e99d3bfe055874a04279f659f009fd57be17",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+          "outcome": "Hawks",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 13.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xe970e6bfee5993a11cbf1b8c5bcc7bbcf9c4d3fa65fbcc35f8414bc9f28c1893",
+      "title": "Spread: Knicks (-6.5)",
+      "outcome": "Cavaliers",
+      "traders": [
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Cavaliers",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 16,
+          "username": "Anonymous",
+          "address": "0x93abbc022ce98d6f45d4444b594791cc4b7a9723",
+          "outcome": "Cavaliers",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 20,
+          "username": "Anonymous",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+          "outcome": "Cavaliers",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 3,
+      "total_score": 13.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x9df495a416820c808be8e808a60ce835e4cdf86dcd370440d3223b0504a5ab62",
+      "title": "Will Arsenal FC win on 2026-05-10?",
+      "outcome": "No",
+      "traders": [
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 12.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x4ad8fd3e8ec4efcc378cc15ab8da7eb71cece5cb30ad4495b515ce9bcc2b325f",
+      "title": "Will FC Barcelona win on 2026-05-10?",
+      "outcome": "No",
+      "traders": [
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 12.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x6fe4e1c7cc5388742f2734ad01087752d8a8262d473bfb60ecfe03fed763f856",
+      "title": "Will FC Internazionale Milano win on 2026-05-09?",
+      "outcome": "No",
+      "traders": [
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 12.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x25240714dea6fdfa7b8afa179b309bdef63e0a4635047176efab182f4d744350",
+      "title": "Will Villarreal CF win on 2026-05-13?",
+      "outcome": "Yes",
+      "traders": [
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
           "outcome": "Yes",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 12.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xb1f602f5b2ea87c44340284f366e39bfbfc1066b19701a381b432b6553ed39a4",
+      "title": "Will Aston Villa FC win on 2026-05-03?",
+      "outcome": "Yes",
+      "traders": [
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 12.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x8bd2b18229c39ae4250c9df4809e5b28c05e380535a1fe5497eef65b3a5b31dd",
+      "title": "Will Athletic Club win on 2026-05-13?",
+      "outcome": "Yes",
+      "traders": [
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Yes",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 12.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x2b29dbb41c0f5d4dead0f4f1941a312cd0010bfc549513ec31032f13bbcbedae",
+      "title": "Will Inter Miami CF win on 2026-05-13?",
+      "outcome": "No",
+      "traders": [
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 12.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xe7e4bf6db81ecb0717955af5387ef09c6c5eb5a1bedd2f7d7f8dd34df022ad3f",
+      "title": "Will Toulouse FC win on 2026-05-03?",
+      "outcome": "No",
+      "traders": [
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 12.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xf4318fec34876d03ff54fec5d25e60d52462b31e10de44909cf1a48044c6faaf",
+      "title": "Canadiens vs. Sabres",
+      "outcome": "Sabres",
+      "traders": [
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "Sabres",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Sabres",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 12.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x80ed89cd11f0adb1ab8e95e36060f28cf1bba426863481c3c500c3abdc9f1606",
+      "title": "Will Lille OSC win on 2026-04-26?",
+      "outcome": "No",
+      "traders": [
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "No",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 12.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xbdb3e92be64273cf839bf1d65b97c20c53388510e3e1c19dbf4d53e19724f4e8",
+      "title": "Spread: Spurs (-9.5)",
+      "outcome": "Spurs",
+      "traders": [
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Spurs",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 16,
+          "username": "Anonymous",
+          "address": "0x93abbc022ce98d6f45d4444b594791cc4b7a9723",
+          "outcome": "Spurs",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 12.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x23974992d01e5eb5f02e6dbe0ce19f0479073d91578afe0e1b4cb0f45e96a95b",
+      "title": "Spurs vs. Thunder: O/U 221.5",
+      "outcome": "Under",
+      "traders": [
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Under",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 10.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x0044717447f885ed54508627145cbf1ac113566c79af55428175f6d0c776949c",
+      "title": "Oilers vs. Ducks",
+      "outcome": "Oilers",
+      "traders": [
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Oilers",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Oilers",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 10.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x26fdc8f31b8bc79524a567c1cd5e3420b12b2ce5201cee3daa3b2523f175a8fc",
+      "title": "Canucks vs. Ducks",
+      "outcome": "Ducks",
+      "traders": [
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Ducks",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Ducks",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 10.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x05ff336984d923471dd740beb1f71e6e53ae2aabc0cbe3f03febbdfb4b95a61d",
+      "title": "Washington Nationals vs. Milwaukee Brewers",
+      "outcome": "Milwaukee Brewers",
+      "traders": [
+        {
+          "rank": 14,
+          "username": "Anonymous",
+          "address": "0x27f738fe203827445690339104aae35b20bc44b0",
+          "outcome": "Milwaukee Brewers",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Milwaukee Brewers",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 10.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xb77a90106dc0cfa6420c2a38d760729a46b5b6455ce461ac8b7c4a1e90ea6de5",
+      "title": "Pistons vs. Magic",
+      "outcome": "Magic",
+      "traders": [
+        {
+          "rank": 13,
+          "username": "Anonymous",
+          "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+          "outcome": "Magic",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 20,
+          "username": "Anonymous",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+          "outcome": "Magic",
           "size": 0.0,
           "value": 0.0
         }
@@ -2990,143 +2754,296 @@
       "total_score": 9.0,
       "total_value": 0.0,
       "avg_value": 0.0
+    },
+    {
+      "market_id": "0x5a4e36a4e22afd7b5993018538728e8520fb1aeb771fe4c088f2ad9602a9d5e2",
+      "title": "Spread: Thunder (-5.5)",
+      "outcome": "Thunder",
+      "traders": [
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 317156.2084
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Thunder",
+          "size": 0.0,
+          "value": 7911.6633
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 7.0,
+      "total_value": 325067.8717,
+      "avg_value": 162533.93585
+    },
+    {
+      "market_id": "0xe178bba96d083685924d1b0068cdedf9d9041ba61138d9326fb96e7f1533670d",
+      "title": "Cavaliers vs. Raptors: O/U 219.5",
+      "outcome": "Over",
+      "traders": [
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Over",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Over",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 7.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x16b3cf520752340ae991f3aac8f04f53db4b14e9591e3e519c060c27d44a22e2",
+      "title": "Kansas City Royals vs. St. Louis Cardinals",
+      "outcome": "Kansas City Royals",
+      "traders": [
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Kansas City Royals",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Kansas City Royals",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 7.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x88c0bedd8702a320f69dddb37411b265ac1e146b2237ea70e0b79bee462233f9",
+      "title": "Spread: Pistons (-4.5)",
+      "outcome": "Magic",
+      "traders": [
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "Magic",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Magic",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 7.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x5817fe66dad4091f3463c6338ede2bb4a8edf5409358ebc663e0bb47b8b766fe",
+      "title": "San Francisco Giants vs. Tampa Bay Rays",
+      "outcome": "San Francisco Giants",
+      "traders": [
+        {
+          "rank": 17,
+          "username": "Anonymous",
+          "address": "0x9495425feeb0c250accb89275c97587011b19a27",
+          "outcome": "San Francisco Giants",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "San Francisco Giants",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 7.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x22138ac97cfb6f04b3a7560225684d6f821e5e470b876de18b7d3d23f7cf7736",
+      "title": "Timberwolves vs. Nuggets",
+      "outcome": "Timberwolves",
+      "traders": [
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Timberwolves",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 20,
+          "username": "Anonymous",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+          "outcome": "Timberwolves",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 4.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x3fcbbda449c836808fe0ff52df93af30625392a0e5fdb85f927e9cc76067c97c",
+      "title": "Pistons vs. Hornets",
+      "outcome": "Hornets",
+      "traders": [
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Hornets",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 20,
+          "username": "Anonymous",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+          "outcome": "Hornets",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 4.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0x63111e350c79af92e1a56ed535541fa19b981a2b5e413b7c476dd9d473414aaa",
+      "title": "Pistons vs. Magic",
+      "outcome": "Pistons",
+      "traders": [
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Pistons",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 20,
+          "username": "Anonymous",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+          "outcome": "Pistons",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 4.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
+    },
+    {
+      "market_id": "0xc07873f26a5ba9ee280c16a383e894c1497838075e1c71cb99ce4f2b06678a1a",
+      "title": "Spread: Cavaliers (-4.5)",
+      "outcome": "Cavaliers",
+      "traders": [
+        {
+          "rank": 18,
+          "username": "Anonymous",
+          "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+          "outcome": "Cavaliers",
+          "size": 0.0,
+          "value": 0.0
+        },
+        {
+          "rank": 20,
+          "username": "Anonymous",
+          "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+          "outcome": "Cavaliers",
+          "size": 0.0,
+          "value": 0.0
+        }
+      ],
+      "trader_count": 2,
+      "total_score": 4.0,
+      "total_value": 0.0,
+      "avg_value": 0.0
     }
   ],
   "ai_analysis": [
     {
       "rank": 1,
-      "title": "Will Aston Villa FC win on 2026-05-20?",
-      "outcome": "No",
-      "confidence": 82,
-      "rationale": "Highest score with strong trader agreement and substantial liquidity despite split signal indicates confident consensus.",
-      "trader_count": 6,
-      "split_signal": true
+      "title": "Spurs vs. Thunder",
+      "outcome": "Thunder",
+      "confidence": 92,
+      "rationale": "Highest score (91.0) with strong trader consensus (7 traders), substantial liquidity ($343k avg), and no split signal indicating unified market conviction.",
+      "trader_count": 7,
+      "split_signal": false
     },
     {
       "rank": 2,
-      "title": "San Francisco Giants vs. Arizona Diamondbacks",
-      "outcome": "San Francisco Giants",
-      "confidence": 82,
-      "rationale": "Tied score with Aston Villa but lower liquidity; split signal suggests some disagreement among traders.",
+      "title": "Spread: Thunder (-6.5)",
+      "outcome": "Thunder",
+      "confidence": 73,
+      "rationale": "Solid score (55.0) with good trader count (5) and meaningful liquidity ($59.5k), though split signal suggests some disagreement.",
       "trader_count": 5,
       "split_signal": true
     },
     {
       "rank": 3,
-      "title": "Spurs vs. Thunder",
-      "outcome": "Spurs",
-      "confidence": 48,
-      "rationale": "Moderate score but highest liquidity ($134k) indicates significant capital backing despite split signal and lower consensus.",
-      "trader_count": 4,
+      "title": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "outcome": "No",
+      "confidence": 72,
+      "rationale": "Strong liquidity ($642k) and decisive trader count (3) with moderate score (50.0), but split signal and long-term political uncertainty add risk.",
+      "trader_count": 3,
       "split_signal": true
     },
     {
       "rank": 4,
-      "title": "Cavaliers vs. Knicks",
-      "outcome": "Cavaliers",
-      "confidence": 67,
-      "rationale": "Good score with unified signal but zero liquidity raises concerns about actual market depth and trader commitment.",
-      "trader_count": 4,
-      "split_signal": false
+      "title": "Golden Knights vs. Avalanche",
+      "outcome": "Golden Knights",
+      "confidence": 68,
+      "rationale": "Reasonable score (57.0) with decent trader participation (5) and solid liquidity ($103k), but split signal weakens confidence.",
+      "trader_count": 5,
+      "split_signal": true
     },
     {
       "rank": 5,
-      "title": "Will SC Freiburg win on 2026-05-20?",
-      "outcome": "No",
-      "confidence": 58,
-      "rationale": "Moderate score with decent liquidity but lower trader count and split signal suggest weaker consensus.",
-      "trader_count": 4,
-      "split_signal": true
-    },
-    {
-      "rank": 6,
-      "title": "Will FC Barcelona win on 2026-05-17?",
-      "outcome": "No",
-      "confidence": 54,
-      "rationale": "Declining score trajectory with no liquidity and split opinion among limited traders.",
-      "trader_count": 4,
-      "split_signal": false
-    },
-    {
-      "rank": 7,
-      "title": "SC Freiburg vs. Aston Villa FC: O/U 2.5",
-      "outcome": "Over",
-      "confidence": 50,
-      "rationale": "Mid-tier score with modest liquidity and split signal indicates marginal conviction.",
+      "title": "Spread: Thunder (-8.5)",
+      "outcome": "Thunder",
+      "confidence": 65,
+      "rationale": "Moderate score (50.0) with adequate traders (3) and liquidity ($26k), but split signal and lower trader count reduce reliability.",
       "trader_count": 3,
       "split_signal": true
-    },
-    {
-      "rank": 8,
-      "title": "Texas Rangers vs. Colorado Rockies",
-      "outcome": "Colorado Rockies",
-      "confidence": 50,
-      "rationale": "Equal score to similar markets but with reasonable liquidity; split signal and low trader count limit confidence.",
-      "trader_count": 3,
-      "split_signal": true
-    },
-    {
-      "rank": 9,
-      "title": "Chicago White Sox vs. Seattle Mariners",
-      "outcome": "Seattle Mariners",
-      "confidence": 50,
-      "rationale": "Tied score with modest liquidity but limited traders and split signal indicate weak copy-bet quality.",
-      "trader_count": 3,
-      "split_signal": true
-    },
-    {
-      "rank": 10,
-      "title": "Will AC Milan win on 2026-05-17?",
-      "outcome": "No",
-      "confidence": 51,
-      "rationale": "Low score with no liquidity and minimal trader participation suggests poor market quality.",
-      "trader_count": 3,
-      "split_signal": false
-    },
-    {
-      "rank": 11,
-      "title": "Will Olympique de Marseille win on 2026-05-17?",
-      "outcome": "No",
-      "confidence": 51,
-      "rationale": "Identical to AC Milan market with zero market depth and weak trader consensus.",
-      "trader_count": 3,
-      "split_signal": false
-    },
-    {
-      "rank": 12,
-      "title": "Hamburg European Open: Alejandro Davidovich Fokina vs Alex de Minaur",
-      "outcome": "Alejandro Davidovich Fokina",
-      "confidence": 42,
-      "rationale": "Low score with minimal liquidity and few traders despite split signal; niche market with limited conviction.",
-      "trader_count": 3,
-      "split_signal": true
-    },
-    {
-      "rank": 13,
-      "title": "Will Newcastle United FC win on 2026-05-17?",
-      "outcome": "No",
-      "confidence": 42,
-      "rationale": "Low score with no liquidity and sparse participation indicates poor copy-bet opportunity.",
-      "trader_count": 3,
-      "split_signal": false
-    },
-    {
-      "rank": 14,
-      "title": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
-      "outcome": "Khamzat Chimaev",
-      "confidence": 40,
-      "rationale": "Lowest score with zero liquidity and minimal traders; weakest market for copy-betting.",
-      "trader_count": 3,
-      "split_signal": false
-    },
-    {
-      "rank": 15,
-      "title": "Will Manchester United FC win on 2026-05-17?",
-      "outcome": "No",
-      "confidence": 40,
-      "rationale": "Tied for lowest with no liquidity, indicating extremely poor market depth and trader consensus.",
-      "trader_count": 3,
-      "split_signal": false
     }
   ]
 }
