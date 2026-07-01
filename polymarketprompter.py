@@ -1,5 +1,5 @@
 """
-polymarketscraper.py
+polymarketprompter.py
 ─────────────────────────
 Finds the common open bets among Polymarket's top leaderboard traders,
 ranks the traders by their historical win rate, and runs a weighted
@@ -21,7 +21,7 @@ Pipeline
 
 Usage
 ─────
-    python polymarketscraper.py
+    python polymarketprompter.py
 
 Dependencies
 ────────────
